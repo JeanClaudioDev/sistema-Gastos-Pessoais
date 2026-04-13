@@ -1,0 +1,114 @@
+[
+    {
+        "descricao": "Uber",
+        "valor": 20.0,
+        "data": "12/03/2026",
+        "categoria": "🚗 Transporte",
+        "id": "e670fbe7-e06f-48a0-bea3-0cce0c11e1a1",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Cinema",
+        "valor": 40.0,
+        "data": "13/03/2026",
+        "categoria": "🎬 Lazer",
+        "id": "86053ee1-9df6-4565-9111-9c41e2b3eb38",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Cinema",
+        "valor": 40.0,
+        "data": "13/03/2026",
+        "categoria": "🎬 Lazer",
+        "id": "ab2f7c83-4801-47cf-9715-8f838e688254",
+        "usuario": "douglas"
+    },
+    {
+        "descricao": "Uber",
+        "valor": 20.0,
+        "data": "12/03/2026",
+        "categoria": "🚗 Transporte",
+        "id": "91ee182c-4da5-4401-ab0c-d20a6f53b66d",
+        "usuario": "douglas"
+    },
+    {
+        "descricao": "Pizza",
+        "valor": 50.0,
+        "data": "11/03/2026",
+        "categoria": "🍕 Alimentação",
+        "id": "2cf0fa16-8967-4905-9ec3-9ba92706b141",
+        "usuario": "douglas"
+    },
+    {
+        "descricao": "Remedio",
+        "valor": 45.0,
+        "data": "15/03/2026",
+        "categoria": "🏥 Saúde",
+        "id": "7b33485b-2fd5-4b29-9b15-3bc8c4c1a46b",
+        "usuario": "douglas"
+    },
+    {
+        "descricao": "Pizza",
+        "valor": 50.0,
+        "data": "09/03/2026",
+        "categoria": "🍕 Alimentação",
+        "id": "bf029f47-94b6-4dc1-bcee-dcd3e5d32830",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Aluguel",
+        "valor": 1200.0,
+        "data": "06/03/2026",
+        "categoria": "🏠 Moradia",
+        "id": "ed73876e-18da-4da8-9dbb-327cf13fc7ee",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Conta Luz",
+        "valor": 300.0,
+        "data": "06/03/2026",
+        "categoria": "💡 Contas",
+        "id": "f6979250-cf10-4f17-b53c-5a6b86820580",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Conta Aguá",
+        "valor": 100.0,
+        "data": "06/03/2026",
+        "categoria": "💡 Contas",
+        "id": "b97efa3d-fbe9-479d-8107-7500640ae169",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Mercado",
+        "valor": 250.0,
+        "data": "05/03/2026",
+        "categoria": "🛒 Compras",
+        "id": "e01ed953-0714-420a-8521-a8422f5cff02",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Remedio",
+        "valor": 40.0,
+        "data": "12/03/2026",
+        "categoria": "🏥 Saúde",
+        "id": "327b99c2-94b8-4d06-9c51-901b467f27e6",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Faculdade",
+        "valor": 220.0,
+        "data": "06/03/2026",
+        "categoria": "🎓 Educação",
+        "id": "5e200c86-bb3f-4803-b5d5-34d00c5ea4d8",
+        "usuario": "jean"
+    },
+    {
+        "descricao": "Moletom",
+        "valor": 200.0,
+        "data": "13/03/2026",
+        "categoria": "👕 Roupas",
+        "id": "f8f74513-08a0-4bde-a2d8-38c45535bb6e",
+        "usuario": "jean"
+    }
+]
